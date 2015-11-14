@@ -1,2 +1,3 @@
 # hello-world
-the first program in github
+my the first program in github
+I'm learning to code
